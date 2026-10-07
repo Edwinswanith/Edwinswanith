@@ -6,8 +6,6 @@ I build **production-grade AI systems and products**, from LLM agents and retrie
 
 My focus is not just getting an AI demo to work. I care about building the **architecture, orchestration, evaluation, deployment, reliability, and product experience** required to make AI useful in the real world.
 
-📍 Chennai, India
-
 ---
 
 ## What I Build
