@@ -65,7 +65,7 @@ My focus is not just getting an AI demo to work. I care about building the **arc
 
 ## Current Work
 
-### Lead AI Engineer @ Iris Software
+### Lead AI Engineer 
 
 Working on enterprise AI platforms and agentic architectures.
 
